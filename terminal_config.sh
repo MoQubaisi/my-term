@@ -26,7 +26,6 @@ git clone --depth=1 https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTO
 cd $HOME
 wget https://github.com/Moe-Sherif/pretty-term/raw/main/.zshrc -O $HOME/.zshrc
 wget https://github.com/Moe-Sherif/pretty-term/raw/main/.p10k.zsh -O $HOME/.p10k.zsh
-sudo cd /usr/share/fonts
 sudo wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf -O /usr/share/fonts/MesloLGS\ NF\ Regular.ttf
 sudo wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold.ttf -O /usr/share/fonts/MesloLGS\ NF\ Bold.ttf
 sudo wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Italic.ttf -O /usr/share/fonts/MesloLGS\ NF\ Italic.ttf
