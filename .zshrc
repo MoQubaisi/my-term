@@ -107,11 +107,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-#alias tiger="/home/moe/my_scripts/tigervnc.sh"
-#alias code="/mnt/c/Users/Moham/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code"
-# ENV
-#export DISPLAY=$(ip route |awk '/^default/{print $3}'):0
-#export PATH="/opt/TurboVNC/bin:$PATH"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
