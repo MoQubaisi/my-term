@@ -1,1 +1,1 @@
-# pretty-term
+# Configuration for a pretty zsh terminal
